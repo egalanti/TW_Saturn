@@ -11,4 +11,8 @@ To run the code unzip the file, go into the folder TW_executable, and run:
 
 Note, that you need to specify the path of the matlab application.
 
+The input_parameters.mat contain the variables defining the wind profile and depth.
+
+
+
 
