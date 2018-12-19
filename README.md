@@ -7,9 +7,9 @@ It runs on MacOS environement.
 
 To run the code unzip the file, go into the folder TW_executable, and run:
 
-./run_TW_Cassini.sh /Applications/MATLAB_R2018b.app input_parameters
+./run_TW_Cassini.sh /Applications/MATLAB_R2018a.app input_parameters
 
-Note, that you need to specify the path of the matlab application.
+Note, that you need to specify the path of the matlab R2018a application
 
 The input_parameters.mat contain the variables defining the wind profile and depth.
 
