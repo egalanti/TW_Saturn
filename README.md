@@ -1,7 +1,6 @@
 # TW_Saturn
-Thermal wind model for analysis of Cassini gravity measurements
 
-This code calculate the gravity harmonics for Saturn given a wind profile and the depth of the winds. The output are the values for J8 and J10.
+This code calculates the gravity harmonics for Saturn given a wind profile and the depth of the winds. The output are the values for J8 and J10.
 
 It runs on MacOS environement.
 
